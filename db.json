@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Audrey",
+      "image": "https://imgs.search.brave.com/TwSrcykVUsL3bCTgHIA9cTUDmdDvn_XHgH510623t1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2hlYXRzaGVldC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMTAvbGl0dGxl/LXNob3Atb2YtaG9y/cm9ycy1wbGFudC5q/cGc_dz0xMjAwJmg9/OTYwJnN0cmlwPWFs/bCZxdWFsaXR5PTg5",
+      "price": "6.66",
+      "id": 8
     }
   ]
 }
